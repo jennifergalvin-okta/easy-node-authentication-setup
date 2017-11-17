@@ -1,0 +1,9 @@
+{
+  "appMode": "rwx",
+  "httpPort": "8080",
+  "listenOnHTTP": "true",
+  "httpsPort": "8443",
+  "listenOnHTTPS": "false",
+  "oktaDomain":  "jgalvin.okta.com",
+  "apikey":  "blahblahblah"
+}
